@@ -1,11 +1,18 @@
-# 💫About Me :
-👋 Xin chào! Tôi là một người đam mê công nghệ với những ước mơ lớn.
-🚀 Hiện tại tôi đang tập trung phát triển kỹ năng trong lĩnh vực kỹ thuật dữ liệu và hệ thống thông tin.
-👥 Tôi muốn hợp tác trong các dự án liên quan đến xử lý và phân tích dữ liệu.
-🆘 Tôi đang tìm kiếm sự hỗ trợ về các khái niệm nâng cao trong kỹ thuật dữ liệu và các phương pháp thực hành tốt nhất.
-🌱 Hiện tại tôi là sinh viên năm 3 ngành Công nghệ Thông tin, chuyên ngành Hệ thống Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT).
-💬 Hãy hỏi tôi về hành trình học tập IT và khát vọng của tôi trong lĩnh vực kỹ thuật dữ liệu.
-⚡ Tôi đang nỗ lực để biến đổi dữ liệu thô thành những hiểu biết có giá trị
+ Về Tôi:
+ 
+ Xin chào! Tôi là một người đam mê công nghệ với những ước mơ lớn.
+
+ Hiện tại, tôi đang tập trung phát triển kỹ năng trong lĩnh vực phát triển ứng dụng di động với Flutter, đặc biệt là xây dựng các ứng dụng đa nền tảng hiệu quả và đẹp mắt.
+
+ Tôi muốn hợp tác trong các dự án Flutter liên quan đến phát triển giao diện người dùng (UI) và tích hợp API để tạo ra trải nghiệm người dùng mượt mà.
+
+ Tôi đang tìm kiếm sự hỗ trợ về các khái niệm nâng cao trong Flutter, chẳng hạn như quản lý trạng thái (state management), tối ưu hiệu suất ứng dụng, và các phương pháp thực hành tốt nhất trong phát triển ứng dụng di động.
+
+ Hiện tại, tôi là sinh viên năm 3 ngành Công nghệ Thông tin, chuyên ngành Hệ thống Thông tin tại Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT).
+
+ Hãy hỏi tôi về hành trình học tập Flutter và khát vọng của tôi trong việc trở thành một Flutter Developer chuyên nghiệp.
+
+ Tôi đang nỗ lực để biến những ý tưởng sáng tạo thành các ứng dụng di động thực tế và có giá trị cho người dùng.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100060686323494) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiet-phan-0b01aa2b9/) 
